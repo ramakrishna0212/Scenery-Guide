@@ -1,0 +1,74 @@
+* {
+   
+    color: black;
+}
+body{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.homepage{
+    padding-top: 2%;
+    padding-left: 14%;
+    font-size: larger;
+    color: black;
+}
+.title{
+    margin: -78px;
+    padding: 16px;
+    background:rgb(177 177 177 / 30%);
+    padding-top: 6%;
+    padding-left: 53%;
+    font-size: x-large;
+    font-weight: bold;
+} 
+.homepage{
+    font-size: large;
+    padding-top: 11.5%;
+    padding-left: 9%;
+    padding-bottom: 3%;
+}
+.imag{
+    width: 10%;
+    float: left;
+    padding-top: 1%;
+    padding-left: 14.5%;
+}
+.iteam{
+    width: 55%;
+    float: right;
+    font-size: larger;
+    padding-top: 3.5%;
+    padding-left: 9%;
+}
+.ingredent{
+    width: 55%;
+    float: right;
+    line-height: 174%;
+    font-size: larger;
+    padding-top: 0%;
+    padding-left: 9%;
+}
+
+.button1{
+    padding-top: 72px;
+    padding-left: 89%;
+}
+
+.button2{
+    margin-top: -21px;
+    margin-left: 77%;
+}
+.col-sm-4{
+    line-height: 41px;
+    width: 66%;
+    padding-top: 22%;
+    padding-left: 15%;
+}
+hr{
+    width: 70%;
+}
+.image{
+    padding-left: 38%;
+    padding-top: 6%;
+}
